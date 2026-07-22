@@ -1,1 +1,12 @@
 index.html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Website</h1>
+
+<input type="text" placeholder="Search...">
+<button>Search</button>
+
+</body>
+</html>
